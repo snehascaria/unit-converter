@@ -4,4 +4,4 @@ To create a console based unit converter application that allows users to conver
 
 OVERVIEW 
 
-This program starts with displaying three options to select length conversations, weight conversions and exit option. Further sub-options of both types are given in two separate functions. Using switch statement 
+This program starts with displaying three options to select length conversations, weight conversions and exit option. Using switch statement,further types of conversions are accessed in the while loop for each type. 
