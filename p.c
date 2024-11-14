@@ -3,29 +3,6 @@
 #include<string.h>
 #include<stdlib.h>
 
-/*void display(float l)
-{
- printf("\n  ****Length Conversion****    ");
- printf("\n1. Meters to Kilometers");
- printf("\n2. Kilometers to Meters");
- printf("\n3. Miles to kilometers");
- printf("\n4. Kilometers to Miles");
- printf("\n5. Go Back!");
- printf("\nEnter your choice:");
- scanf("%d",&ch);
-}*/
-
-/*void displayy(float w)
-{
- printf("\n  ****Weight Conversion****     ");
- printf("\n1. Grams to Kilograms");
- printf("\n2. Kilograms to Grams");
- printf("\n3. Pounds to Kilograms");
- printf("\n4. Kilograms to Pounds");
- printf("\n5. Go Back!");
- printf("\nEnter your choice:");
- scanf("%d",&c);
-}*/
 
 int main()
 {
